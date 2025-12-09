@@ -31,9 +31,6 @@
   </em>
 </p>
 
-I’m a developer focused on building **clean**, **interactive**, and **high-performance** digital experiences.  
-I work on **web apps, mobile apps, and UI/UX**, always trying to blend **good design** with **solid engineering**.
-
 - ⚡ Currently exploring the **MERN stack** & **Flutter**
 - 🧠 Interested in **design systems**, **animations**, and **UX details**
 - 🌱 Always experimenting with new tools & workflows
@@ -51,19 +48,19 @@ I work on **web apps, mobile apps, and UI/UX**, always trying to blend **good de
   <img src="https://img.shields.io/badge/Focus-UI%2FUX-ec4899?style=for-the-badge&labelColor=020617" />
 </p>
 
-### 🖥️ Frontend  
+### 🖥️ Core Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma" height="48" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,figma" height="48" />
 </p>
 
-### ⚙️ Backend  
+### ⚙️ Frameworks & Libraries  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="48" />
 </p>
 
 ### 🧰 Tools & Platforms  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,vercel,netlify" height="48" />
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,vercel,netlify" height="48" />
 </p>
 
 ---
