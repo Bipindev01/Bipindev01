@@ -107,7 +107,7 @@ I work on **web apps, mobile apps, UI/UX**, and I constantly experiment with mod
 
 ## 🐍 GitHub Contribution Snake  
 <p align="center">
-  <img src="https://github.com/Bipindev01/Bipindev01/blob/output/github-contribution-grid-snake2.svg" />
+  <img src="https://github.com/Bipindev01/Bipindev01/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
