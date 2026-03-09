@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-html-css-bootstrap.netlify.app" target="_blank">
+  <a href="https://main-portfolio-seven-weld.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Preview-00f0ff?style=for-the-badge&logo=google-chrome&logoColor=020617" />
   </a>
   <a href="https://www.linkedin.com/in/bipindevb" target="_blank">
